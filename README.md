@@ -30,7 +30,7 @@
     - Copy the token, e.g., `8750501cab033e0713e88505b2fe32b7da4d712cc469c638` and use it to login on the web-based jupyter
  6. Enjoy!
  
-## Other important resource
+ ## Other important resource
  - **Install NVIDIA-Docker2**
     - Install dep: `$ sudo apt-get install apt-transport-https ca-certificates curl software-properties-common`
     - Setting the GPG and remote repo for the package:
